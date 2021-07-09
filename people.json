@@ -278,15 +278,16 @@
       "Website": "https://danielbertalan.dev",
       "GitHub": "https://github.com/BertalanD"
     }
-  },
+  }
   {
-    "nick": "sunverwerth",
+    "nick": "nooga",
     "coordinates": [
-      52.516,
-      13.377
+      52.400,
+      16.831
     ],
     "links": {
-      "GitHub": "https://github.com/sunverwerth"
+      "GitHub": "https://github.com/nooga",
+      "Twitter": "https://twitter.com/MGasperowicz"
     }
-  }
+  },
 ]
